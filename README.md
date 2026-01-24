@@ -15,6 +15,11 @@ The script is **framework-independent** and works on **all FiveM frameworks**.
 - Standalone (no framework required)  
 - Lightweight and easy to install  
 
+## 🌍 Available Languages
+
+- **English**
+- **Czech (Čeština)**
+
 ---
 
 ## 📦 Dependencies
