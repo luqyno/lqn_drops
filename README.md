@@ -1,3 +1,6 @@
+##This script has some small bugs, no support provided.
+**You can edit it and fork it if you want (Credit needs to be given).**
+
 # lqn_drops
 
 **lqn_drops** is a simple standalone FiveM script that allows players to pick up and re-equip dropped accessories like hats or glasses.
