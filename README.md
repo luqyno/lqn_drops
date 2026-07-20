@@ -1,4 +1,4 @@
-##This script has some small bugs, no support provided.
+#This script has some small bugs, no support provided.
 **You can edit it and fork it if you want (Credit needs to be given).**
 
 # lqn_drops
